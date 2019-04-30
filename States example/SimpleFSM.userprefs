@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SimpleFSM.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bullet.cs" Line="6" Column="23" />
+      <File FileName="Assets\Scripts\FSM.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\PCControl.cs" Line="8" Column="32" />
+      <File FileName="Assets\Scripts\SimpleFSM.cs" Line="6" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
